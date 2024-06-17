@@ -1,0 +1,2 @@
+mkdir -p var-log/lighttpd
+docker compose up -d
